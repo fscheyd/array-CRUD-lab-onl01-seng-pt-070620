@@ -6,8 +6,8 @@ def create_an_array
   ["Obi-Wan Kenobi", "Qui-Gon Jin", "Anakin Skywalker", "Asohka Tano"]
 end
 
-def add_element_to_end_of_array(["Obi-Wan Kenobi", "Qui-Gon Jin", "Anakin Skywalker", "Asohka Tano"])
-  add_element_to_end_of_array << "Revan"
+def add_element_to_end_of_array(array, element)
+  
 end
 
 def add_element_to_start_of_array(array, element)
